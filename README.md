@@ -1,5 +1,7 @@
 # Book Scraper → Excel Report
 
+![Excel summary](summary.png)
+
 A Python script that collects all 1,000 books from [books.toscrape.com](https://books.toscrape.com) (a website built for scraping practice) and turns them into a clean, ready-to-use Excel report.
 
 ## What it does
